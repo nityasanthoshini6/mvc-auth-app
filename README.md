@@ -2,11 +2,16 @@
 
 A RESTful backend API built with Node.js, Express, and MongoDB using the **MVC (Model-View-Controller)** architecture. It features user registration, login with JWT authentication, and protected Todo CRUD routes.
 
+## Live Deployment (Render)
+* **Live API Base URL:** [https://mvc-auth-app-e83d.onrender.com/](https://mvc-auth-app-e83d.onrender.com/)
+*(Note: The Render free-tier server may take 30–50 seconds to wake up on the first request after inactivity.)*
+
 ## Tech Stack
 * **Runtime:** Node.js (ES Modules)
 * **Framework:** Express.js
-* **Database:** MongoDB & Mongoose
+* **Database:** MongoDB Atlas & Mongoose
 * **Authentication:** JSON Web Tokens (JWT) & bcrypt
+* **Hosting:** Render
 
 ## Setup & Installation
 
